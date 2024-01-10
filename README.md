@@ -1,2 +1,1 @@
-# number-prediction-from-image
-Number Prediction from Image.
+# Number Prediction from Image.
